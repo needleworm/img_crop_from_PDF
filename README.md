@@ -1,5 +1,5 @@
 # img_crop_from_PDF
-Image crop from PDF. All visible comments or drawing markups are extracted too.
+Image crop from PDF. All visible comments or drawing markups over image area are extracted too.
 
 
 ## Dependnecy
