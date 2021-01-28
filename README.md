@@ -3,7 +3,7 @@ Image crop from PDF. All visible comments or drawing markups over image area are
 
 
 ## Dependnecy
-> pip install pillow fitz
+> pip install pillow pymupdf
 
 
 ## ussage
